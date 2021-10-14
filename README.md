@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MT, you can call me Momo as well
-- 👀 I’m interested in server
+- 👀 I’m interested in Internet and Hacking
 - 🌱 I’m currently learning python and C++
 - 📫 How to reach me QQ:20658383115 Gmail:shuhengwen@gmail.com
 

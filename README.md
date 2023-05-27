@@ -20,7 +20,7 @@ Attitude towards Senior Developers:
 4. The Book I am reading:
 ---
 | Books' Name | Progress |
-|:------:|:------------:|
+|:------|:------------:|
 |《Python：从入门到实践》|👌|
 |《Python快速上手：让繁琐的工作自动化》|📖|
 |《C Primer Plus》| 📖 |

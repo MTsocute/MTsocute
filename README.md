@@ -26,6 +26,8 @@ In the future, I plan to upload projects related to data analysis and mathematic
 |《C Primer Plus》| 📖 |
 |《流畅的Python》|📖|
 |《算法图解》|📖|
+|《大话数据结构》|📖|
+|《数据结构和算法 - C 语言描述》|📖|
 |《SQL基础教程》|📖|
 |《C和指针》|📖|
 

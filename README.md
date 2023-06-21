@@ -23,7 +23,8 @@ In the future, I plan to upload projects related to data analysis and mathematic
 |:------|:------------:|
 |《Python：从入门到实践》|👌|
 |《Python快速上手：让繁琐的工作自动化》|📖|
-|《C Primer Plus》| 📖 |
+|《C Primer Plus》| 👌 |
+|《C++ Primer Plus》| 📖 |
 |《流畅的Python》|📖|
 |《算法图解》|📖|
 |《大话数据结构》|📖|

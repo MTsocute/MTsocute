@@ -1,37 +1,46 @@
-# Momo's Page
+<h1 align="center">Momo's Learning Journey</h1>
+
+<p align="center">
+  <img src="https://wallhaven.cc/w/8od8xo" alt="image Here">
+</p>
+
 ---
-Hello there! Welcome to my GitHub profile. Here's a brief introduction about me and what you can find in my repositories.
 
-1. Programming Skills:
+## Programming Languages
+
+- **C**: Completed basic C programming. Currently learning Data Structures and Algorithms.
+- **Python**: Completed introductory Python programming. Exploring automation and data analysis.
+
+## Projects
+
+### Project 1: Data Analysis
+
+In this project, I used Python to analyze a dataset and generate meaningful insights.
+
+### Project 2: Algorithm Visualizer
+
+I developed an algorithm visualizer using JavaScript and HTML to help understand sorting algorithms.
+
+## Books I'm Reading
+
+| Books' Name                                  | Progress |
+| -------------------------------------------- | -------- |
+| 《Python：从入门到实践》                     | 👌       |
+| 《Python快速上手：让繁琐的工作自动化》        | 📖       |
+| 《C Primer Plus》                             | 👌       |
+| 《C++ Primer Plus》                           | 📖       |
+| 《流畅的Python》                              | 📖       |
+| 《算法图解》                                  | 📖       |
+| 《大话数据结构》                              | 📖       |
+
+## Resources
+
+Here are some helpful resources I found during my learning journey:
+
+- [Learn C in 21 Days](https://example.com/c-course)
+- [Python Documentation](https://docs.python.org)
+- [Algorithm Visualizations](https://example.com/algorithm-visualizations)
+
 ---
-  Begin with C and Python.
 
-2. Experience Level:
----
-  I am a beginner who recently started my coding journey.
-Currently, my projects may not have advanced content to showcase. However, you can find some introductory materials and basic programming concepts.
-
-3. Future Direction:
----
-  I have a keen interest in the field of artificial intelligence.
-In the future, I plan to upload projects related to data analysis and mathematical explorations.
-
-
-4. The Book I am reading:
----
-| Books' Name | Progress |
-|:------|:------------:|
-|《Python：从入门到实践》|👌|
-|《Python快速上手：让繁琐的工作自动化》|📖|
-|《C Primer Plus》| 👌 |
-|《C++ Primer Plus》| 📖 |
-|《流畅的Python》|📖|
-|《算法图解》|📖|
-|《大话数据结构》|📖|
-
-
-5. Attitude towards Senior Developers:
----
-I greatly admire and respect experienced developers in the community.
-I am humbly seeking guidance and mentorship from them.
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Thank you for visiting!
+Feel free to explore my repositories for more projects and code examples. Don't hesitate to reach out if you have any questions or suggestions. Happy learning!

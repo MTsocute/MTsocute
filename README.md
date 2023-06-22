@@ -1,7 +1,7 @@
 <h1 align="center">Momo's Learning Journey</h1>
 
 <p align="center">
-  <img src="https://wallhaven.cc/w/8od8xo" alt="image Here">
+  <img src="[henati](https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/booba.jpg)" alt="image Here">
 </p>
 
 ---

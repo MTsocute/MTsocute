@@ -21,9 +21,9 @@ Let me share with you my progress and aspirations.
 ---
 ## Goals
 
-### Python: Data Analysis
+### Python: Data Analysis and Data Visualization
 
-> I aspire to become a proficient data analyst, utilizing Python to extract meaningful insights from vast amounts of data.
+> I aspire to become a proficient data analyst, utilizing Python to extract meaningful insights from vast amounts of data. Furthermore, I aim to enhance my research endeavors by effectively visualizing this data, allowing for better understanding and analysis.
 
 ### Python: Machine Learning
 

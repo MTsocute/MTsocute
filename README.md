@@ -15,7 +15,7 @@ Let me share with you my progress and aspirations.
 ## Programming Languages
 
 - **C**: I have completed the basics of C programming and I am currently diving into Data Structures and Algorithms.
-- **C++**: I have a good grasp of C++ as an object-oriented programming language.
+- **C++**: I have just begun learning C++ as my first object-oriented programming language recently.
 - **Python**: I have completed introductory Python programming and I am eager to enhance my skills to leverage its power in scientific applications.
 
 ---

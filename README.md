@@ -4,17 +4,21 @@
   <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Image Here">
 </p>
 
+
 ## Introduction
 
 Hello there! Welcome to my learning journey. <br>
-I am Momo, and I'm passionate about programming and exploring new technologies. Let me share with you my progress and aspirations.
+I am Momo, and I'm passionate about programming and exploring new technologies. <br>
+Let me share with you my progress and aspirations.
 
+---
 ## Programming Languages
 
 - **C**: I have completed the basics of C programming and I am currently diving into Data Structures and Algorithms.
 - **C++**: I have a good grasp of C++ as an object-oriented programming language.
 - **Python**: I have completed introductory Python programming and I am eager to enhance my skills to leverage its power in scientific applications.
 
+---
 ## Goals
 
 ### Python: Data Analysis
@@ -28,7 +32,7 @@ I am Momo, and I'm passionate about programming and exploring new technologies. 
 ### C: Data Structures and Algorithms Learning
 > For the purpose of learning data structures and algorithms.
 
-
+---
 ## Books I'm Reading
 
 | Books' Tittle                                  | Progress |
@@ -41,7 +45,7 @@ I am Momo, and I'm passionate about programming and exploring new technologies. 
 | 《算法图解》                                    | 📖       |
 | 《大话数据结构》                                 | 📖       |
 
-
+---
 ## To somebody looking through My Profile
 
 > Feel free to explore my repositories for more projects and code examples. <br>

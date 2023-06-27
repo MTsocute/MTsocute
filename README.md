@@ -29,7 +29,7 @@ Let me share with you my progress and aspirations.
 
 > I am deeply interested in the mathematics and algorithmic implementations behind artificial intelligence. It is not driven by work requirements, but rather by my curiosity and passion to understand the subject.
 
-### C: Data Structures and Algorithms Learning
+### C/C++: Data Structures and Algorithms Learning
 > For the purpose of learning data structures and algorithms.
 
 ---

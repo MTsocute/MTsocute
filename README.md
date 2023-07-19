@@ -42,7 +42,7 @@ Let me share with you my progress and aspirations.
 | 《C Primer Plus》                              | 👌       |
 | 《C++ Primer Plus》                            | 📖       |
 | 《流畅的Python》                                | 📖       |
-| 《算法图解》                                    | 📖       |
+| 《算法图解》只学到图                                    | 📖       |
 | 《大话数据结构》                                 | 📖       |
 
 ---

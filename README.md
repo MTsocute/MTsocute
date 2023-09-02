@@ -40,10 +40,11 @@ Let me share with you my progress and aspirations.
 | 《Python：从入门到实践》                          | 👌       |
 | 《Python快速上手：让繁琐的工作自动化》              | 👌       |
 | 《C Primer Plus》                              | 👌       |
-| 《C++ Primer Plus》                            | 📖       |
+| 《C++ Primer Plus》                            | 👌       |
 | 《流畅的Python》                                | 📖       |
 | 《算法图解》学到图                               | 👌       |
 | 《大话数据结构》                                 | 📖       |
+| 《Morden Effective C++》                       | 📖       |
 
 ---
 ## To somebody looking through My Profile

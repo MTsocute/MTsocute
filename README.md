@@ -32,11 +32,13 @@ Let me share with you my progress and aspirations.
 ### C/C++: Data Structures and Algorithms Learning
 > For the purpose of learning data structures and algorithms.
 
+### Lua: Game Development
+> Star Valley!!! <br> Don't Starve Together!!!
 ---
 ## Books I'm Reading
 
 | Books' Tittle                                  | Progress |
-| :--------------------------------------------  | :---------:|
+| :-------------------------------------------  | :---------:|
 | 《Python：从入门到实践》                          | 👌       |
 | 《Python快速上手：让繁琐的工作自动化》              | 👌       |
 | 《C Primer Plus》                              | 👌       |
@@ -45,6 +47,9 @@ Let me share with you my progress and aspirations.
 | 《算法图解》学到图                               | 👌       |
 | 《大话数据结构》                                 | 📖       |
 | 《Morden Effective C++》                       | 📖       |
+| 《STL C++17 CookBook》                         | 📖       |
+| 《Lua 程序设计》                                | 📖       |
+| 《计算机网络（第七版）自顶向下方法》                | 📖       |
 
 ---
 ## To somebody looking through My Profile

@@ -45,7 +45,7 @@ Let me share with you my progress and aspirations.
 | 《C++ Primer Plus》                            | 👌       |
 | 《流畅的Python》                                | 📖       |
 | 《算法图解》学到图                               | 👌       |
-| 《大话数据结构》                                 | 📖       |
+| 《大话数据结构》                                 | 👌       |
 | 《Morden Effective C++》                       | 📖       |
 | 《STL C++17 CookBook》                         | 📖       |
 | 《Lua 程序设计》                                | 📖       |

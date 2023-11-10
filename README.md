@@ -47,9 +47,8 @@ Let me share with you my progress and aspirations.
 | 《算法图解》学到图                               | 👌       |
 | 《大话数据结构》                                 | 👌       |
 | 《Morden Effective C++》                       | 📖       |
-| 《STL C++17 CookBook》                         | 📖       |
+| 《STL C++17 CookBook》                         | 👌       |
 | 《Lua 程序设计》                                | 📖       |
-| 《计算机网络（第七版）自顶向下方法》                | 📖       |
 
 ---
 ## To somebody looking through My Profile

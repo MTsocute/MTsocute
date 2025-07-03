@@ -31,7 +31,6 @@
 | **C++**    | OOP, ASIO networking                          | Embedded systems & network comms   |
 | **Python** | Automation, data analysis, visualization      | Rapid prototyping & scripting      |
 | **Go**     | Syntax, backend design patterns               | Backend service development        |
-| **Lua**    | Game scripting and reverse engineering        | Modding & logic systems            |
 
 ---
 

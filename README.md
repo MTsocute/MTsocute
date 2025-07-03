@@ -1,7 +1,7 @@
 <h1 align="center">✨ Momo's Learning Journey ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Banner" width="500"/>
+  <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,52 +16,55 @@
 
 ## 🧑‍💻 About Me
 
-> I'm **Momo**, a curious explorer in the world of code — building small things, learning big concepts, and enjoying every step.
+> I'm **Momo**, a curious explorer in the world of code — building small things, learning big concepts, and enjoying every step of the journey.
 
-- 💡 Self-taught programmer focused on fundamentals
-- 🔍 Currently diving deep into backend, embedded systems, and data analysis
-- 🎮 Big fan of modding games like **Star Valley** & **Don't Starve Together**
+- 💡 Self-taught programmer focusing on strong fundamentals
+- 🔍 Currently exploring backend development, embedded systems, and data analysis
+- 🎮 Passionate about game modding (Star Valley, Don't Starve Together)
 
 ---
 
 ## 🚀 Current Focus
 
-| Language | Learning Path | Usage |
-|----------|----------------|-------|
-| **C**     | 深入学习数据结构与算法 | 系统底层、嵌入式 |
-| **C++**   | 学习面向对象 + ASIO 网络 | 网络编程 |
-| **Python** | 脚本自动化、数据分析、可视化 | 快速原型 & 数据处理 |
-| **Go**     | 后端语法 & 实践 | Web 服务开发 |
-| **Lua**    | 游戏逻辑、MOD 脚本 | 游戏开发（兴趣驱动） |
+| Language   | Learning Path                                 | Usage                              |
+|------------|-----------------------------------------------|------------------------------------|
+| **C**      | Deep dive into data structures & algorithms   | Embedded programming               |
+| **C++**    | OOP, ASIO networking                          | Embedded systems & network comms   |
+| **Python** | Automation, data analysis, visualization      | Rapid prototyping & scripting      |
+| **Go**     | Syntax, backend design patterns               | Backend service development        |
+| **Lua**    | Game scripting and reverse engineering        | Modding & logic systems            |
 
 ---
 
 ## 🎯 Learning Goals
 
-- 🧠 理解数据结构和算法的精髓
-- 📈 利用 Python 探索数据世界，并学会用图说话
-- 🤖 研究 AI 背后的数学和机器学习原理
-- 🔌 使用 Go 构建可靠、高性能的后端服务
-- 🕹️ 在 Lua 中重构游戏玩法，成为 MOD 玩家高手
+- 📊 Become proficient in data visualization and Python-based data workflows  
+- 🤖 Understand the theory and math behind machine learning  
+- 🔌 Build robust, scalable backend systems with Go  
+- 🧠 Master core algorithm design and implementation with C/C++
 
 ---
 
 ## 🌱 Side Projects & Interests
 
-- ⚙️ 小型嵌入式项目 with C/C++
-- 📊 自动化数据处理工具 with Python
-- 📡 网络通信实验 with C++ ASIO
-- 🕹️ Lua 模组开发与逆向尝试
+- ⚙️ Micro embedded systems projects using C/C++
+- 📈 Python tools for data wrangling & automation
+- 🌐 Real-time communication with C++ ASIO
+- 🎮 Lua scripting for game modding and logic hacking
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Top Languages
 
-> Want to collaborate, suggest, or just say hi?
-
-- 🐙 Check out my repos  
-- 🧩 Drop an issue / comment  
-- ✨ Happy to learn together!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTsocute&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs">
+</p>
 
 ---
 
+## 📬 Get in Touch
+
+> Feel free to explore my repositories and reach out if you’re working on similar things, or just want to chat.  
+Let’s keep learning and building cool stuff together!
+
+---

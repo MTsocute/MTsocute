@@ -1,57 +1,54 @@
-<h1 align="center">Momo's Learning Journey</h1>
+<h1 align="center">Hi 👋, I'm Momo</h1>
 
 <p align="center">
-  <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Image Here">
+  <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Momo's Banner" width="600"/>
 </p>
 
-
-## Introduction
-
-Hello there! Welcome to my learning journey. <br>
-I am Momo, and I'm passionate about programming and exploring new technologies. <br>
-Let me share with you my progress and aspirations.
-
----
-## Programming Languages
-
-- **C**: I have completed the basics of C programming and I am currently diving into Data Structures and Algorithms.
-- **C++**: I have just begun learning C++ as my first object-oriented programming language recently.
-- **Python**: I have completed introductory Python programming and I am eager to enhance my skills to leverage its power in scientific applications.
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go Badge"/></a>
+</div>
 
 ---
-## Goals
 
-### Python: Data Analysis and Data Visualization
+## 🚀 About Me
 
-> I aspire to become a proficient data analyst, utilizing Python to extract meaningful insights from vast amounts of data. Furthermore, I aim to enhance my research endeavors by effectively visualizing this data, allowing for better understanding and analysis.
+Hi! I'm **Momo**, a passionate self-taught programmer who enjoys building, breaking, and understanding systems.  
+Currently focused on:
 
-### Python: Machine Learning
-
-> I am deeply interested in the mathematics and algorithmic implementations behind artificial intelligence. It is not driven by work requirements, but rather by my curiosity and passion to understand the subject.
-
-### C/C++: Data Structures and Algorithms Learning
-> For the purpose of learning data structures and algorithms.
-
-### Lua: Game Development
-> Star Valley!!! <br> Don't Starve Together!!!
----
-## Books I'm Reading
-
-| Books' Tittle                                  | Progress |
-| :-------------------------------------------  | :---------:|
-| 《Python：从入门到实践》                          | 👌       |
-| 《Python快速上手：让繁琐的工作自动化》              | 👌       |
-| 《C Primer Plus》                              | 👌       |
-| 《C++ Primer Plus》                            | 👌       |
-| 《流畅的Python》                                | 📖       |
-| 《算法图解》学到图                               | 👌       |
-| 《大话数据结构》                                 | 👌       |
-| 《Morden Effective C++》                       | 📖       |
-| 《STL C++17 CookBook》                         | 👌       |
-
+- 🧠 **C / C++** for embedded systems and algorithm learning  
+- 🐍 **Python** for scripting, data science, and future machine learning projects  
+- 🌀 **Go** for backend server development  
+- 🕹️ **Lua** for game modding (Star Valley & Don't Starve Together!)
 
 ---
-## To somebody looking through My Profile
 
-> Feel free to explore my repositories for more projects and code examples. <br>
-If you have any questions or suggestions, please don't hesitate to reach out. Happy learning!
+## 🎯 Goals
+
+- 📊 Master **Python** data analysis and visualization for research & exploration  
+- 🤖 Learn **Machine Learning** out of pure curiosity  
+- 📚 Strengthen **C / C++** foundation through DSA (Data Structures & Algorithms)  
+- 🎮 Dive deeper into **Lua** for modding and game logic scripting  
+- ⚙️ Build robust **Go** backend services with modern practices  
+
+---
+
+## 📌 Current Focus
+
+- Learning **Go syntax & backend fundamentals**
+- Practicing **C++ with ASIO for network programming**
+- Experimenting with **Python automation & visualization libraries**
+- Studying **DSA** across C and C++ implementations
+
+---
+
+## 📬 Let's Connect
+
+Feel free to check out my repositories.  
+If you're on a similar journey, or just curious — don’t hesitate to reach out!
+
+---
+

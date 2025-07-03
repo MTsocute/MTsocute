@@ -1,54 +1,67 @@
-<h1 align="center">Hi 👋, I'm Momo</h1>
+<h1 align="center">✨ Momo's Learning Journey ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Momo's Banner" width="600"/>
+  <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Banner" width="500"/>
 </p>
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go Badge"/></a>
-</div>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-Hi! I'm **Momo**, a passionate self-taught programmer who enjoys building, breaking, and understanding systems.  
-Currently focused on:
+> I'm **Momo**, a curious explorer in the world of code — building small things, learning big concepts, and enjoying every step.
 
-- 🧠 **C / C++** for embedded systems and algorithm learning  
-- 🐍 **Python** for scripting, data science, and future machine learning projects  
-- 🌀 **Go** for backend server development  
-- 🕹️ **Lua** for game modding (Star Valley & Don't Starve Together!)
+- 💡 Self-taught programmer focused on fundamentals
+- 🔍 Currently diving deep into backend, embedded systems, and data analysis
+- 🎮 Big fan of modding games like **Star Valley** & **Don't Starve Together**
 
 ---
 
-## 🎯 Goals
+## 🚀 Current Focus
 
-- 📊 Master **Python** data analysis and visualization for research & exploration  
-- 🤖 Learn **Machine Learning** out of pure curiosity  
-- 📚 Strengthen **C / C++** foundation through DSA (Data Structures & Algorithms)  
-- 🎮 Dive deeper into **Lua** for modding and game logic scripting  
-- ⚙️ Build robust **Go** backend services with modern practices  
+| Language | Learning Path | Usage |
+|----------|----------------|-------|
+| **C**     | 深入学习数据结构与算法 | 系统底层、嵌入式 |
+| **C++**   | 学习面向对象 + ASIO 网络 | 网络编程 |
+| **Python** | 脚本自动化、数据分析、可视化 | 快速原型 & 数据处理 |
+| **Go**     | 后端语法 & 实践 | Web 服务开发 |
+| **Lua**    | 游戏逻辑、MOD 脚本 | 游戏开发（兴趣驱动） |
 
 ---
 
-## 📌 Current Focus
+## 🎯 Learning Goals
 
-- Learning **Go syntax & backend fundamentals**
-- Practicing **C++ with ASIO for network programming**
-- Experimenting with **Python automation & visualization libraries**
-- Studying **DSA** across C and C++ implementations
+- 🧠 理解数据结构和算法的精髓
+- 📈 利用 Python 探索数据世界，并学会用图说话
+- 🤖 研究 AI 背后的数学和机器学习原理
+- 🔌 使用 Go 构建可靠、高性能的后端服务
+- 🕹️ 在 Lua 中重构游戏玩法，成为 MOD 玩家高手
+
+---
+
+## 🌱 Side Projects & Interests
+
+- ⚙️ 小型嵌入式项目 with C/C++
+- 📊 自动化数据处理工具 with Python
+- 📡 网络通信实验 with C++ ASIO
+- 🕹️ Lua 模组开发与逆向尝试
 
 ---
 
 ## 📬 Let's Connect
 
-Feel free to check out my repositories.  
-If you're on a similar journey, or just curious — don’t hesitate to reach out!
+> Want to collaborate, suggest, or just say hi?
+
+- 🐙 Check out my repos  
+- 🧩 Drop an issue / comment  
+- ✨ Happy to learn together!
 
 ---
 

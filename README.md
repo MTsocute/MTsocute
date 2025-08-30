@@ -1,7 +1,7 @@
 <h1 align="center">✨ Momo's Learning Journey ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/MTsocute/Image_Hosting_Platform/blob/main/uPic/C.jpeg" alt="Banner" width="100%"/>
+  <img src="https://w.wallhaven.cc/full/8o/wallhaven-8oky1j.jpg" alt="Banner" width="100%"/>
 </p>
 
 <p align="center">

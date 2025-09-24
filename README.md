@@ -1,68 +1,29 @@
-<h1 align="center">✨ Momo's Learning Journey ✨</h1>
-
 <p align="center">
-  <img src="https://w.wallhaven.cc/full/8o/wallhaven-8oky1j.jpg" alt="Banner" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Momo%20Codes!&width=800&height=140" alt="Glitch Banner" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-> I'm **Momo**, a curious explorer in the world of code — building small things, learning big concepts, and enjoying every step of the journey.
-
-- 💡 Self-taught programmer focusing on strong fundamentals
-- 🔍 Currently exploring backend development, embedded systems, and data analysis
-- 🎮 Passionate about game modding (Star Valley, Don't Starve Together)
-
----
-
-## 🚀 Current Focus
-
-| Language   | Learning Path                                 | Usage                              |
-|------------|-----------------------------------------------|------------------------------------|
-| **C**      | Deep dive into data structures & algorithms   | Embedded programming               |
-| **C++**    | OOP, ASIO networking                          | Embedded systems & network comms   |
-| **Python** | Automation, data analysis, visualization      | Rapid prototyping & scripting      |
-| **Go**     | Syntax, backend design patterns               | Backend service development        |
-
----
-
-## 🎯 Learning Goals
-
-- 📊 Become proficient in data visualization and Python-based data workflows  
-- 🤖 Understand the theory and math behind machine learning  
-- 🔌 Build robust, scalable backend systems with Go  
-- 🧠 Master core algorithm design and implementation with C/C++
-
----
-
-## 🌱 Side Projects & Interests
-
-- ⚙️ Micro embedded systems projects using C/C++
-- 📈 Python tools for data wrangling & automation
-- 🌐 Real-time communication with C++ ASIO
-- 🎮 Lua scripting for game modding and logic hacking
-
----
-
-## 📊 GitHub Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTsocute&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs">
+  <img src="https://w.wallhaven.cc/full/8o/wallhaven-8oky1j.jpg" alt="Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue3-35495E?logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MQTT-660066?logo=eclipse-mosquitto&logoColor=white" />
+</p>
+
+
 ---
 
-## 📬 Get in Touch
-
-> Feel free to explore my repositories and reach out if you’re working on similar things, or just want to chat.  
-Let’s keep learning and building cool stuff together!
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=140&section=footer&text=Keep%20Building&fontColor=ffffff&fontAlign=50&fontSize=32" />
+</p>
